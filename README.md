@@ -6,7 +6,6 @@
 - [Acceptance Criteria](#acceptance-criteria)
 - [Usage](#usage)
 - [Get in Touch](#get-in-touch)
-- [Video Link](#video-link)
 
 ## Description
 In this project I focused on refactoring code to make the website more accessible for everyone including those with dissabilities. I have added comments so you can follow along with my work and added semantic structure for HTML elements. 
@@ -34,3 +33,10 @@ I used HTML and CSS for this project
 
 ## Get in Touch
 If you have any questions or feedback about the application, please feel free to contact me at silvam@cwu.edu
+
+
+![Website Pictures](./assets/images/Screen%20Shot%202023-04-13%20at%203.42.50%20PM.png)
+
+![Website Pictures](./assets/images/Screen%20Shot%202023-04-13%20at%203.43.13%20PM.png)
+
+![Website Pictures](./assets/images/Screen%20Shot%202023-04-13%20at%203.43.17%20PM.png)
